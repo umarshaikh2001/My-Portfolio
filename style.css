@@ -1,0 +1,41 @@
+body
+{
+    font-family: Arial sans-serif;
+    margin: 20px;
+    background-color: #f0f0f0;
+
+}
+
+header
+{
+    text-align: center;
+
+}
+
+.profile-pic{
+
+    width: 150px;
+    border-radius: 10%;
+}
+section
+{
+    margin-top: 20px;
+    background-color: #ffffff;
+    padding: 15px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1)
+}
+
+h2{
+    color: #333;
+}
+
+a{
+    color: #007BFF;
+    text-decoration: none;
+}
+a:hover
+{
+    text-decoration: underline;
+}
+
